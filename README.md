@@ -1,2 +1,7 @@
 # Snake_Water_Gun
-A simple snake water gun game written in python and stores high scores of each player
+
+![Python](https://img.shields.io/badge/-Python%203.8.6-yellow) ![Pandas](https://img.shields.io/badge/-Pandas-orange)
+
+A simple game written in python that also stores high scores of each player.
+
+License - GPL-3.0
